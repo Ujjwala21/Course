@@ -1,2 +1,0 @@
-# Course
-This is Course 
